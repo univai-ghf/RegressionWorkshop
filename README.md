@@ -17,8 +17,8 @@ Here is the outline:
 You will model and solve a real-world linear regression problem. Finally, a homework problem will help cement your understanding!
 
 
-Workshop: [![Open Workshop In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/univai-ghf/RegressionWorkshop/blob/main/LinReg_Workshop.ipynb)
+Workshop: [![Open Workshop In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/RegressionWorkshop/blob/main/LinReg_Workshop.ipynb)
 
-Homework: [![Open Homework In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/univai-ghf/RegressionWorkshop/blob/main/LinReg_Homework.ipynb)
+Homework: [![Open Homework In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/RegressionWorkshop/blob/main/LinReg_Homework.ipynb)
 
 
